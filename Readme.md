@@ -1,10 +1,7 @@
 **Yelp Review Classification with KNN**
 
 **Overview:**
-
-             This project implements a k-Nearest Neighbor (KNN) classifier to predict the sentiment of Yelp restaurant reviews. Reviews are classified as either positive (+1) or negative (-1). The training dataset consists of 18,000 labeled reviews, and the test dataset includes 18,000 unlabeled reviews.
-
-The project involves text preprocessing, feature engineering, model building, cross-validation, and testing. The goal is to achieve the highest possible accuracy while adhering to the rules and requirements provided.
+ This project implements a k-Nearest Neighbor (KNN) classifier to predict the sentiment of Yelp restaurant reviews. Reviews are classified as either positive (+1) or negative (-1). The training dataset consists of 18,000 labeled reviews, and the test dataset includes 18,000 unlabeled reviews.The project involves text preprocessing, feature engineering, model building, cross-validation, and testing. The goal is to achieve the highest possible accuracy while adhering to the rules and requirements provided.
 
 **Features:**
 

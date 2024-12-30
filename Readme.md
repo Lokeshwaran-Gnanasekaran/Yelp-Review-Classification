@@ -67,7 +67,3 @@
   * Similarity Metric: Cosine Similarity  
 * **Feature Reduction**: Top 3000 features selected using Chi-squared tests.
 
-## **Acknowledgments:**
-
-## This project is part of the CS 584 (Data Mining) course at George Mason University, Fall 2023\.
-
